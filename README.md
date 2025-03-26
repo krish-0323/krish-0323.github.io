@@ -33,7 +33,7 @@
 - **Next.js**  
   A React framework for building server-side rendered and static web applications.
 
-- **Gemini API**  
+- **AZURE API**  
   Provides an interface for accessing AI-powered interview functionalities.
 
 - **PostgreSQL**  
