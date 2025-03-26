@@ -27,7 +27,7 @@ const RecordAnswerSection = ({
   const mediaRecorderRef = useRef(null);
   const chunksRef = useRef([]);
 
-  const genAI = new GoogleGenerativeAI(process.env.NEXT_PUBLIC_GEMINI_API_KEY);
+  const genAI = new GoogleGenerativeAI(process.env.NEXT_PUBLIC_AZURE_API_KEY);
 
   useEffect(() => {
     if (!isRecording && userAnswer.length > 10) {
