@@ -1,12 +1,24 @@
 # MICRO RECRUITERS
 
 ## Overview
+
 ![img2](https://github.com/user-attachments/assets/97f81ca2-0a98-4d5a-909b-59dc219f350e)
+1.Candidates opens the landing page.
+
+![login](https://github.com/user-attachments/assets/857e772f-27a8-4fd7-b3e5-a10351c36cc8)
+2.Candidate can login using the credentials. We are using Clerk to handle login/signup.
 
 ![dashboard](https://github.com/user-attachments/assets/0bdfc4c2-d1b1-4785-90de-99d7c622945b)
+3.Candidate lands on the dashboard, where they can start their interview.
+
 ![img3](https://github.com/user-attachments/assets/509293ae-a6fc-41ba-b082-3a37b426cca8)
+
+
 ![img2](https://github.com/user-attachments/assets/33f45b9f-4013-4ba9-8fa2-fbc0bb7d256a)
+4. Candidate provides more information like Resume, Work Experience and Tech-stacks.
+
 ![img1](https://github.com/user-attachments/assets/522d568f-d262-4f64-beea-15017998e1cf)
+7.After the interview ends, a detailed feedback is generated for all the questions asked.
 
 
 ## WorkFlow
