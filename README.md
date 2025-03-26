@@ -1,9 +1,12 @@
 # MICRO RECRUITERS
 
 ## Overview
-![Alt Text](./images/Screenshot 2025-03-26 112340.png)
-![Alt Text](./images/Screenshot 2025-03-26 112426.png)
-![Alt Text](./images/Screenshot 2025-03-26 113025.png)
+![dashboard](https://github.com/user-attachments/assets/0bdfc4c2-d1b1-4785-90de-99d7c622945b)
+![img3](https://github.com/user-attachments/assets/509293ae-a6fc-41ba-b082-3a37b426cca8)
+![img2](https://github.com/user-attachments/assets/33f45b9f-4013-4ba9-8fa2-fbc0bb7d256a)
+
+
+
 
 
 ## Features
