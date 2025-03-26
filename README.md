@@ -17,19 +17,19 @@
 
 This project leverages various AI services to enhance the interview experience and provide accurate evaluations. Below are the key AI services used:
 
-# 1. **Generating Questions**
+ **Generating Questions**
 - AI generates interview questions based on the job description (predefined criteria), job role, years of experience, and user responses.
 
-# 2. **Text-To-Speech API**
+ **Text-To-Speech API**
 - Converts interview questions into audio format for users who prefer listening over reading.
 
-# 3. **Speech-To-Text API**
+**Speech-To-Text API**
 - Captures and converts the user's verbal responses into text, storing them in the database for final evaluation.
 
-# 4. **Similarity Checking**
+ **Similarity Checking**
 - After the interview, AI evaluates user responses by comparing them to ideal answers to assess accuracy and understanding.
 
-# 5. **Feedback Generation**
+ **Feedback Generation**
 - Based on the user’s responses and the similarity check results, AI generates final feedback, highlighting strengths and areas for improvement.
 
 
@@ -61,26 +61,6 @@ This project leverages various AI services to enhance the interview experience a
 
 - **Drizzle ORM**  
   A type-safe and developer-friendly ORM that simplifies database interactions.
-
-# AI Services Used in This Project
-
-This project leverages various AI services to enhance the interview experience and provide accurate evaluations. Below are the key AI services used:
-
-## 1. **Generating Questions**
-- AI generates interview questions based on the job description (predefined criteria), job role, years of experience, and user responses.
-
-## 2. **Text-To-Speech API**
-- Converts interview questions into audio format for users who prefer listening over reading.
-
-## 3. **Speech-To-Text API**
-- Captures and converts the user's verbal responses into text, storing them in the database for final evaluation.
-
-## 4. **Similarity Checking**
-- After the interview, AI evaluates user responses by comparing them to ideal answers to assess accuracy and understanding.
-
-## 5. **Feedback Generation**
-- Based on the user’s responses and the similarity check results, AI generates final feedback, highlighting strengths and areas for improvement.
-
 # Impact and Future Scope
 
 ## Impact
