@@ -56,6 +56,7 @@ To use the Micro Recruiters Plateform, follow these guidelines:
 - Review Recent Interviews: Access your most recent interviews directly from the home page for quick review and continued improvement.
 
 ## TEAM
+![1](https://github.com/user-attachments/assets/85517904-d9fb-45b2-9ec7-b7712587327f)
 
 1. Krishna Purwar
 2. Krrish Raj
